@@ -6,7 +6,7 @@ It use cdbc service provided by demo.cdbc.cloud. You need not build cdbc service
  You can use following authentication information to access demo cdbc service.
 
 ## 1. Management (Windows application)
-used to do product management.
+A windows application used to do product management.
 ### app.config
 Use following setting in your app.config
 ```
