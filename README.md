@@ -7,6 +7,7 @@ It use cdbc service provided by demo.cdbc.cloud. You need not build cdbc service
 
 ## 1. Management (Windows application)
 A windows application used to do product management.
+You can use it to add or edit products and confirm the modification through online shop.
 ### app.config
 Use following setting in your app.config
 ```
