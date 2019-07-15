@@ -26,7 +26,7 @@
             <td>Release Date:<asp:Label runat="server" ID="lblReleaseDate"></asp:Label></td>
         </tr>
          <tr><td>
-            <asp:Button ID="btnAddCart" runat="server" CssClass="btn btn-primary btn-lg" Text="カートに入れる" OnClientClick="alert('This is a demo.');return false;"/>
+            <asp:Button ID="btnAddCart" runat="server" CssClass="btn btn-primary btn-lg" Text="Add to cart" OnClientClick="alert('This is a demo.');return false;"/>
              </td>
         </tr>
         <tr>
