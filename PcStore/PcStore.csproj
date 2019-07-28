@@ -44,11 +44,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Cdbc.Common, Version=4.0.1907.1, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Cdbc.Data.4.0.1907\lib\net45\Cdbc.Common.dll</HintPath>
+    <Reference Include="Cdbc.Common, Version=4.1.1907.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Cdbc.Data.4.1.1907.1\lib\net45\Cdbc.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Cdbc.Data, Version=4.0.1907.1, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Cdbc.Data.4.0.1907\lib\net45\Cdbc.Data.dll</HintPath>
+    <Reference Include="Cdbc.Data, Version=4.1.1907.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Cdbc.Data.4.1.1907.1\lib\net45\Cdbc.Data.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
